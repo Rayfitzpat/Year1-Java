@@ -10,6 +10,7 @@ public class BigNumber {
 		Scanner in = new Scanner (System.in);
 		System.out.print("Please enter a number between 1000 & 999,999: ");
 		String front = m
+				//test commit
 		
 		
 	}
